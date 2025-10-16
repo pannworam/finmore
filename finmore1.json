@@ -1,8 +1,9 @@
 {
   "owner": {
-    "username": "YOUR_GITHUB_USERNAME"
+    "username": "finmoredev"
   },
   "record": {
-    "A": ["203.0.113.42"]
+    "CNAME": "venues-agent-johns-match.trycloudflare.com"
   }
 }
+
